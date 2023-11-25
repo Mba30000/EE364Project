@@ -1,2 +1,3 @@
-./call_center/target/**
-./call_center/lib/**
+call_center/target/*
+call_center/lib/*
+call_center/output/*
