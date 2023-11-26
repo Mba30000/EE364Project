@@ -26,7 +26,7 @@ public class Call {
     public static final long MAXWAITTIME = 60;
     private static LinkedList<Call> callQueue = new LinkedList<>();
     private static long callCount = 0;
-    private static int test;
+    private static int test1;
 
     private long startTime;
     private long answerTime;
